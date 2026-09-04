@@ -9,15 +9,31 @@
 
 .textc{
     text-align: center;
-    margin-top: 20px;
+    
+    background-color:  coral;
 }
 
-.textc:hover{
-    color:coral;
-}
+
 
 .card-body:hover{
     background-color: coral;
     color: black;
     
+}
+
+.bgg{
+    background-color: coral;
+}
+
+.hovert:hover{
+    background-color: coral;
+    
+}
+
+.scale:hover{
+    transform:scalex(2)
+}
+
+.lef{
+    margin-left:600px;
 }
