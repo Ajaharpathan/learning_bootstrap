@@ -1,3 +1,23 @@
 .bg-color{
     background-color: coral;
 }
+
+.hove:hover{
+           background-color: rgb(240, 191, 30);
+           border: 2px solid red;
+}
+
+.textc{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.textc:hover{
+    color:coral;
+}
+
+.card-body:hover{
+    background-color: coral;
+    color: black;
+    
+}
