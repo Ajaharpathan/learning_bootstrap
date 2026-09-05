@@ -23,17 +23,86 @@
 
 .bgg{
     background-color: coral;
-}
-
-.hovert:hover{
-    background-color: coral;
+    padding-bottom: 30px;
     
 }
 
-.scale:hover{
-    transform:scalex(2)
-}
 
 .lef{
     margin-left:600px;
+}
+
+.igh:hover{
+           transform:skewY(3);
+}
+
+.mle{
+    margin-left:90px;
+}
+
+.mre{
+    margin-left: 20px;
+}
+
+.hov{
+    text-align: center;
+}
+
+.mrc{
+    margin-right: 2px;
+}
+
+.mrr{
+    margin-left: 30px;
+}
+
+.serchmargin{
+    margin-right: 100px;
+}
+
+.mrll{
+    margin-left: 220px;
+}
+
+.mll{
+    text-align: center;
+}
+
+.alig{
+    text-align:  center;
+    background-color:rgba(128, 128, 128, 0.39);
+    margin-bottom: 0px;
+    padding-bottom: 60px;
+    padding-top: 20px;
+}
+
+.padd{
+    padding-top: 10px;
+    padding-bottom: 50px;
+    background-color: coral;
+}
+
+.paddb{
+    padding-bottom: 50px;
+}
+
+.hos{
+    padding-bottom: 40px;
+    color: lightsalmon;
+    
+}
+.paddbb{
+    padding-bottom: 50px;
+}
+
+mark{
+    background-color: yellow;
+}
+
+.h2c{
+    background-color: coral;
+}
+
+.h2cc{
+    background-color: coral;
 }
