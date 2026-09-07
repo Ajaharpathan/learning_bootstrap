@@ -115,3 +115,26 @@ mark{
     padding-bottom: 10px;
 }
 
+.bi-youtube {
+    color: red;
+    font-size: 30px;
+}
+
+.bi-instagram{
+   color: #FD1D1D;
+   font-size: 30px;
+}
+
+.bi-facebook{
+     color: #1877F2;
+    font-size: 30px;
+}
+
+.mar{
+    margin-left: 70px;
+}
+
+.mmrb{
+    margin-left: 230px;
+    margin-top: 90px;
+}
