@@ -15,11 +15,10 @@
 
 
 
-.card-body:hover{
-    background-color: coral;
-    color: black;
+/* .card-body:hover{
     
-}
+    
+} */
 
 .bgg{
     background-color: coral;
@@ -93,6 +92,7 @@
 }
 .paddbb{
     padding-bottom: 50px;
+    background-color: #F2F2F2;
 }
 
 mark{
@@ -105,4 +105,13 @@ mark{
 
 .h2cc{
     background-color: coral;
+    margin-bottom: 0px;
+    padding-bottom: 5px;
 }
+
+.h2ccc{
+    background-color: coral;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+}
+
