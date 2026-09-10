@@ -224,3 +224,29 @@ mark{
     text-decoration: none;
     color: black;
 }
+
+.but{
+    background-color: yellow;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.align{
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 15px;
+    padding-top: 20px;
+
+}
+
+.pds{
+    padding-top: 30px;
+}
+
+.hb{
+    padding-bottom: 30px;
+}
+
+.pbd{
+    padding-bottom: 20px;
+}
