@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+    <link rel="stylesheet" href="css/style1.css" />
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                 <div class="form-container">
+        <h2>Contact Us</h2>
+
+        <form>
+
+            <!-- Name -->
+            <label for="name">Name</label>
+            <input type="text" id="name" placeholder="Enter your name" required>
+
+            <!-- Email -->
+            <label for="email">Email</label>
+            <input type="email" id="email" placeholder="Enter your email" required>
+
+            <!-- Mobile Number -->
+            <label for="mobile">Mobile Number</label>
+            <input type="tel" id="mobile" placeholder="Enter your mobile number" required>
+
+            <!-- Password -->
+            <label for="password">Password</label>
+            <input type="password" id="password" placeholder="Enter your password" required>
+
+            <!-- Confirm Password -->
+            <label for="confirm-password">Confirm Password</label>
+            <input type="password" id="confirm-password" placeholder="Confirm your password" required>
+
+           
+
+            <!-- Message -->
+            <label for="message">Message</label>
+            <textarea id="message" rows="5"
+                placeholder="Write your message here..."></textarea>
+
+ <!-- Gender -->
+            <label>Gender</label>
+
+ <div class="gender">
+                <label>
+                    <input type="radio" name="gender" value="male">
+                    Male
+                </label>
+
+                <label>
+                    <input type="radio" name="gender" value="female">
+                    Female
+                </label>
+
+                <label>
+                    <input type="radio" name="gender" value="other">
+                    Other
+                </label>
+            </div>
+
+
+            <!-- Checkbox -->
+            <div class="checkbox">
+                <input type="checkbox" id="agree" required>
+                <label for="agree">
+                    I agree to the terms and conditions.
+                </label>
+            </div>
+
+            <!-- Submit -->
+            <button type="submit">Submit</button>
+
+        </form>
+    </div>
+            </div>
+        </div>
+    </div>
+
+
+               
+</body>
+</html>
