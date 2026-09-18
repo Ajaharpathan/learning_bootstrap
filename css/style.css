@@ -5,6 +5,7 @@
 .hove:hover{
            background-color: rgb(240, 191, 30);
            border: 2px solid red;
+           border-radius: 50%;
 }
 
 .textc{
@@ -64,6 +65,7 @@
 
 .mrll{
     margin-left: 220px;
+    border-radius: 10px;
 }
 
 .mll{
@@ -236,7 +238,7 @@ mark{
     justify-content: center;
     padding-bottom: 15px;
     padding-top: 20px;
-    margin-left: 500px;
+   
 }
 
 .pds{
