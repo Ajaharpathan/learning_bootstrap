@@ -127,7 +127,7 @@ mark{
 }
 
 .bi-instagram{
-   color: #FD1D1D;
+   color: #E1306C;
    font-size: 30px;
 }
 
@@ -229,7 +229,7 @@ mark{
 }
 
 .but{
-    background-color: yellow;
+    background-color: rgb(255, 214, 80);
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -258,6 +258,8 @@ mark{
     position:fixed;
     list-style: none;
     z-index: 15; 
+    left: auto;
+    right: 10px;
     /* margin-bottom: 100px;    */
     /* margin-left: 0%; */
     margin-top: 1px;
@@ -272,3 +274,12 @@ mark{
           
         } 
     }
+
+
+    /* @media(max-width:1050px)
+    {  
+        .mediab{
+            /* margin-left: 120px; */
+        /* }
+
+    } */ 
