@@ -303,5 +303,19 @@ mark{
 
             margin-left: 20px;
 
+
         }
     }
+
+
+   
+
+    @media(max-width:1050px){
+        .medib:hover{
+
+            border-radius: 50%;
+
+
+        }
+    }
+
