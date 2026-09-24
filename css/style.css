@@ -296,3 +296,12 @@ mark{
         box-shadow: 2px 4px 2px 4px rgb(218, 70, 70);
         
     }
+
+
+    @media(max-width:1050px){
+        .menav{
+
+            margin-left: 20px;
+
+        }
+    }
