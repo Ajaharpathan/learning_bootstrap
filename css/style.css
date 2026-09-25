@@ -276,17 +276,17 @@ mark{
     }
 
 
-    /* @media(max-width:1050px)
+     @media(max-width:300px)
     {  
         .mediab{
-            /* margin-left: 120px; */
-        /* }
+            margin-left: 120px;
+        }
 
-    } */ 
+    }
 
 
     .chove:hover{
-        box-shadow: 4px 5px 4px 5px rgb(255, 214, 80);
+        /* box-shadow: 4px 5px 4px 5px rgb(255, 214, 80); */
     }
 
 
@@ -298,7 +298,7 @@ mark{
     }
 
 
-    @media(max-width:1050px){
+    @media(max-width:1024px) and (min-width:800px){
         .menav{
 
             margin-left: 20px;
@@ -309,13 +309,54 @@ mark{
 
 
    
-
+/* 
     @media(max-width:1050px){
-        .medib:hover{
+        .hrme:{ 
 
-            border-radius: 50%;
+            line-break:normal;
+            
+
+        }
+    } */
+
+
+    @media (min-width: 601px) and (max-width: 1024px) {
+           .mediab{
+
+                  margin-left: 10px;
+
+
+           }
+
+
+    }
+
+
+    @media(max-width:600px){
+        .mediab{ 
+
+            
+             margin-left: 100px;
 
 
         }
-    }
+    } 
 
+      @media (min-width: 601px) and (max-width: 1024px) {
+           .chove{
+
+                  padding-top: 100px;
+
+
+           }
+        }
+
+         @media(max-width:800px){
+        .menav{ 
+
+            
+             margin-left: 10px;
+
+
+        }
+    } 
