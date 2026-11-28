@@ -21,7 +21,7 @@ form.addEventListener("submit", function(event) {
 
         result.innerHTML = "Please fill all fields.";
         result.style.color = "red";
-
+   
         return;
     }
 

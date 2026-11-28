@@ -5,7 +5,7 @@ form.addEventListener("submit", function(event) {
 
     // Prevent page refresh
     event.preventDefault();
-
+   
     // Get form values
     const name = document.getElementById("name").value;
     const email = document.getElementById("email").value;
